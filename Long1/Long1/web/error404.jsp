@@ -1,7 +1,7 @@
 <%-- 
     Document   : error404
     Created on : Oct 15, 2020, 9:04:25 AM
-    Author     : Nguyen Phat Tai - CE140527bbbbbbbbbbb aaaaaaaa
+    Author     : Nguyen Phat Tai - CE140527 khong con nua dau ma kim
 --%>
 
 <%@page import="Model.User"%>
