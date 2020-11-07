@@ -1,0 +1,61 @@
+html {
+    background-image: linear-gradient(180deg, #6c5b49, #f3f2f0);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+
+.top-box{
+    position: relative;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 1000px;
+    height: 650px;
+    background-color: #FFF;
+    border-radius: 30px 30px 0 0;
+    border: 5px solid white;
+}
+
+.menu {
+    background-image: linear-gradient(180deg, #d3c6b8, #fffefe);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    margin: 20px;
+    height: 70px;
+    width: 960px;
+    background-color: #000;
+    border-radius: 30px;
+}
+
+.navbar a {
+    margin-left: 5%;
+    float: left;
+    text-decoration: none;
+    color: #000;
+    text-align: center;
+    padding: 25px;
+    font-family: Arial;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.container {
+    margin: auto;
+    width: 80%;
+    height: 500px;
+}
+
+.pair {
+    float: left;
+    width: 90%;
+}
+
+.question {
+    float:left;
+    width: 65%;
+}
+
+.created {
+    float: right;
+}
